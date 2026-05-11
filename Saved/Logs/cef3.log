@@ -1,0 +1,16 @@
+[19260:22388:0511/194553.885:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19260:22388:0511/194553.929:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18172:23184:0511/194558.613:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B1720F45225432C1082E971D0CB109EE will be ignored
+[19260:2220:0511/194600.599:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21164:6828:0511/194601.267:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-2DDC18F911C40EE112399610A4A8C3D8 will be ignored
+[19260:22388:0511/194601.597:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19260:22388:0511/194601.597:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19260:22388:0511/194601.597:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19260:22388:0511/194601.597:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19260:2220:0511/194601.600:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[21936:27212:0511/194633.494:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21936:27212:0511/194633.934:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21936:27208:0511/194633.940:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21936:27208:0511/194633.940:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21936:27208:0511/194633.940:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19260:22388:0511/201215.332:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
